@@ -1,2 +1,3 @@
-def suma_del_saltamontes(a):
-  print(a*(a+1)/2)
+def suma_del_saltamontes(n):
+    print(sum(range(1,n+1)))
+        
